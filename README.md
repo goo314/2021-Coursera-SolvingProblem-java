@@ -9,7 +9,7 @@
 <hr>
 
 #### Week 1
-*
+* [PerimeterAssignment](/Week1/PerimeterAssignment)
 
 <hr>
 

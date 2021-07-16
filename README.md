@@ -9,7 +9,9 @@
 <hr>
 
 #### Week 1
-* [PerimeterAssignment](/Week1/PerimeterAssignment)
+* HelloWorld [Hello](/Week1/Hello)
+* CalculatePerimeter [Perimeter](/Week1/Perimeter)
+* Assignment [PerimeterAssignment](/Week1/PerimeterAssignment)
 
 <hr>
 

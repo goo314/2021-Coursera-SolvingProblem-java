@@ -18,17 +18,17 @@
 #### Week 2
 * Find a Gene in Dna [FindGene](/Week2/FindGene)
 * Print All Genes in Dna [AllGeneStored](/Week2/AllGeneStored)
-* Store All Genes in Dna [GeneStuff](/Week2/GeneStuff)
+* Store All Genes in Dna [Genestuff](/Week2/Genestuff)
 * Debugging Codes [Debugging](/Week2/Debugging)
 * Assignment
-    * First [StringsFirstAssignment](/Week2/StringsFirstAssignment)
-    * Second [StringsSecondAssignment](/Week2/StringsSecondAssignment)
-    * Third [StringsThirdAssignment](/Week2/StringsThirdAssignment)
+    * First [StringsFirstAssignment](/Week2/StringsFirstAssignments)
+    * Second [StringsSecondAssignment](/Week2/StringsSecondAssignments)
+    * Third [StringsThirdAssignment](/Week2/StringsThirdAssignments)
 
 <hr>
 
 #### Week 3
-* How was The Weather [WeatherCSVProblem](/Week3/WheatherCSVProblem)
+* How was The Weather [WeatherCSVProblem](/Week3/WeatherCSVProblem)
 * What Item Did Country Export [WhichCountriesExport](/Week3/WhichCountriesExport)
 * Assignment
     * First [CSVFirstAssignment](/Week3/CSVFirstAssignment)

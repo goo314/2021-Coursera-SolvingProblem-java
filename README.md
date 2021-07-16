@@ -40,5 +40,5 @@
 * What Names were Popular [BabyNames](/Week4/BabyNames)
 * How to Convert Image [BatchGrayscaleImage](/Week4/BatchGrayscaleImage)
 * Assignment
-    * First [BabyAssignment](/Week4/BabbyAssignment)
+    * First [BabyAssignment](/Week4/BabyAssignment)
     * Second [ImageAssignment](/Week4/ImageAssignment)

@@ -1,4 +1,4 @@
-# Java-From-Duke-Cousera
+# 2021-Coursera-SolvingProblem-java
 
 ### "Java Programming: Solving Problems with Software (Duke Univ)"에 대한 연습코드입니다.
 
